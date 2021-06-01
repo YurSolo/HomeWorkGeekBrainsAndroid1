@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeekBrainsHomeWork</string>
+    <string name="button">Button</string>
+    <string name="CheckBox">Можете потыкать</string>
+    <string name="Switch1">Переключатель настроения</string>
+    <string name="EditText1">Введите что-нибудь и оно никуда не сохранится</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="textOff1">Выкл</string>
+    <string name="textOn1">Вкл</string>
+    <string name="TextView1">Работа мировой электросети</string>
+</resources>
